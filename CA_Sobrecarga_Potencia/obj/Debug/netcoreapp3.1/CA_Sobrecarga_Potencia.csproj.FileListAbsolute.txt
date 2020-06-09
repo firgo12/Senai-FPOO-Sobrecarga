@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.AssemblyInfo.cs
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.exe
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.deps.json
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.runtimeconfig.json
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.dll
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\bin\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.pdb
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.dll
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.pdb
+C:\Users\guilh\Desktop\CA_Sobrecarga_Potencia\obj\Debug\netcoreapp3.1\CA_Sobrecarga_Potencia.genruntimeconfig.cache
